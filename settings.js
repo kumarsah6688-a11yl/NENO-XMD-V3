@@ -6,13 +6,13 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "PLZ PUT YOUER SESSON ID PLZ",
+    SESSION_ID: process.env.SESSION_ID || "3OwmxAhC#AyaVd8ERKWRMyT21ZLTsgXniyDQSOQSyExXEAvfcJg4",
     // add your Session Id make sure it starts with NENO~
 
     PREFIX: process.env.PREFIX || ".",
     // add your prefix for bot
 
-    BOT_NAME: process.env.BOT_NAME || "ɴᴇɴᴏ-xᴍᴅ",
+    BOT_NAME: process.env.BOT_NAME || ᴍᴀɴɪ x
     // add bot name here for menu
 
     MODE: process.env.MODE || "public",
@@ -33,7 +33,7 @@ module.exports = {
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
     // make true if you want auto reply on status 
 
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY NENO.XMD 💖😍*",
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY ᴍᴀɴɪ x 💖😍*",
     // set the auto reply message on status reply  
 
     WELCOME: process.env.WELCOME || "true",
@@ -59,7 +59,7 @@ module.exports = {
 
 ᴋᴇᴇᴘ ᴜsɪɴɢ ✦ɴᴇɴᴏ xᴍᴅ✦ ʙʏ ɴɪᴍᴇꜱʜᴋᴀ⚡
 
-*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ -ɴᴇɴᴏ xᴍᴅ*
+*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ -ᴍᴀɴɪ x*
 
 > ɢɪᴛʜᴜʙ : https://github.com/Nimeshkamihiran`,
     // add alive msg here 
@@ -76,13 +76,13 @@ module.exports = {
     DELETE_LINKS: process.env.DELETE_LINKS || "false",
     // automatic delete links without removing member 
 
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "94721584279",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "9779807044421",
     // add your bot owner number
 
-    OWNER_NAME: process.env.OWNER_NAME || "ɴɪᴍᴇꜱʜᴋᴀ࿐",
+    OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀɴɪ x࿐",
     // add bot owner name
 
-    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴɪᴍᴇꜱʜᴋᴀ ᴍɪʜɪʀᴀᴍ*",
+    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀɴɪsʜ*",
     // add bot owner description  
 
     READ_MESSAGE: process.env.READ_MESSAGE || "false",
@@ -144,7 +144,7 @@ https://youtube.com/@MihirangaMihiranga-k1k
 https://github.com/Nimeshkamihiran/neno-xmd-V3
 
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴɪᴍᴇꜱʜᴋᴀ ᴍɪʜɪʀᴀɴ💖😍`,
-OWNER_DISPLAY: process.env.OWNER_DISPLAY || "Nimeshka Mihiran",
+OWNER_DISPLAY: process.env.OWNER_DISPLAY || "ᴍᴀɴɪ x",
     
 DOWNLOAD_DIR: process.env.DOWNLOAD_DIR || "./downloaded_status",
 
